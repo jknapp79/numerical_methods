@@ -1,2 +1,2 @@
 # numerical_methods
-# numerical_methods
+#### By: Justyn Knapp
